@@ -1,0 +1,8 @@
+{
+  "name": "Hisab-Kitab - Personal Ledger & Udhaar Tracker",
+  "description": "Mobile-first digital personal ledger and Hisab-Kitab app for tracking money owed to you and by you with real-time balance calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
